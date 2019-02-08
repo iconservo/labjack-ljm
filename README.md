@@ -1,2 +1,2 @@
 # labjack-ljm
-Python_LJM_2018_02_23 version 1.18.0
+Python_LJM_2018_10_19 version 1.19.0
